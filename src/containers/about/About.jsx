@@ -27,7 +27,7 @@ export const About = () => {
     },
     {
       label: "Contact",
-      value: '+91 9633013038 , +91 8075372430'
+      value: '9633013038, 8075372430'
     }
 
   ]
